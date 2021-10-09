@@ -1,2 +1,2 @@
-# lava
-project management hot like lava
+# Lava
+Project Management hot like Lava
